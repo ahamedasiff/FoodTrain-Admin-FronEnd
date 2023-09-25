@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Food Train - Online Food Ordering Admin Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Food Train Admin is a comprehensive platform designed to streamline restaurant management processes and provide an exceptional user experience for administrators. With a user-friendly interface and powerful features, it empowers managers to efficiently add, manage, and track orders, ensuring smooth operations and enhanced control over the restaurant staff.
 
-## Available Scripts
+## Installation
+To run Food Train admin-side website locally, follow these steps:
 
-In the project directory, you can run:
+  1. Clone the repository: git clone https://github.com/ahamedasiff/FoodTrain-Admin-Frontend.git
+  2. Install dependencies: yarn
+  3. Login user name and password: Asry, 12345
+  4. Start the server: yarn start
+  5. Access Food Train in your browser at http://localhost:3000
 
-### `npm start`
+## Usage
+Once you have Food Train up and running, you can perform the following actions:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  1. Manage product inventory effortlessly.
+  2. Log in and manage your profile.
+  3. Filter and handle product, order, feedback, and other details.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+Food Train is built using the following technologies and frameworks:
 
-### `npm test`
+  1. Frontend: React.js, HTML, CSS
+  2. Backend: Node.js, Express.js (https://github.com/ahamedasiff/FoodTrain-BackEnd-ClientAndAdmin.git)
+  3. Database: MongoDB  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Future Enhancements
+We have exciting plans for future enhancements, including:
 
-### `npm run build`
+  1. Optimizing the interface to provide a seamless user experience across various devices, ensuring a responsive design for any screen width.
+  2. Enhancing the real-time order tracking feature with additional data and timestamps, providing more accurate and up-to-date information.
+  3. Implementing flexible administration registration options to accommodate different administrative roles and permissions.
+  4. Advanced analytics and reporting features to provide deeper insights into sales and customer behavior.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
